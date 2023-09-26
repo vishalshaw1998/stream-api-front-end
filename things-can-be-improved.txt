@@ -1,0 +1,4 @@
+Things that can be improved
+- Adding .env file to add environment variables.
+- Adding config file for axios
+- Styling
